@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "vite": "^4.2.1"
+  },
+  "dependencies": {
+    "globe.gl": "^2.27.1"
+  }
+}
